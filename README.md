@@ -1,4 +1,4 @@
-# Hi, I'm [Kim]! A current BCIT Computer Systems student. [linkedin]  
+# Hi, I'm [Kim][linkedin]! A current BCIT Computer Systems student.  
 
 - 🌱 Everyday counts towards my learning progress.
 - 👀 Some of my favourite topics are Cloud Computing, ML, Full-stack Development.
