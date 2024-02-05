@@ -2,7 +2,6 @@
 
 - 🌱 Everyday counts towards my learning progress.
 - 👀 Some of my favourite topics are Cloud Computing, ML, Full-stack Development.
-- 😼 My biggest goal for 2023 is to get 3 AWS certificates.
 - 🤘 My spare time is dedicated to digital drawing, reading, and music. 
 
 ### Check out some of my websites:
