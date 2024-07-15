@@ -1,10 +1,31 @@
-# Hi! I'm [Kim][linkedin], a current BCIT Computer Systems student.  
+# Hi! I'm [Kim][linkedin], a BCIT Computer Systems newly grad, currently pursuing a bachelor degree in Computer Science.  
 
-- 🌱 Everyday counts towards my learning progress.
-- 👀 Some of my favourite topics are Cloud Computing, ML, Full-stack Development.
-- 🤘 My spare time is dedicated to digital drawing, reading, and music. 
 
-### Check out some of my websites:
+### Most recent projects:
+
+- [CLI Automation Tool](https://github.com/Kimmm-c/automate-create-remote-repo)
+- [NEO Classification](http://kimmmc.pythonanywhere.com)
+- [FitnessTracker](https://github.com/Kimmm-c/fitness-tracker)
+
+---
+
+### Projects I'm working on:
+
+- I am developing a minimalist painting application called Doodoo using Qt Creator and C++. This app is designed to deepen my understanding of C++ and UI frameworks while also challenging the boundaries of human creativity through its minimalist design and features. My ultimate goal is to use this application to create digital artworks that I plan to sell on my upcoming e-commerce website.
+  
+- Concurrently, I'm working on a personal e-commerce website to sell my digital artworks. This project serves both as a learning experience and a potential additional income stream. In this project, I will be working with PostgreSQL, Vue.js, Next.js, Stripe, AWS, etc..
+
+---
+
+### A little about me:
+
+I graduated from BCIT with a diploma in Computer Systems and am now working towards a Bachelor's degree in Computer Science, set to graduate in 2026. My academic journey and co-op placements have exposed me to full-stack development, machine learning, and data structures and algorithms. Over the next couple of years, I'll be diving into wireless and mobile app development and network security.
+
+I'm a tech enthusiast with an entrepreneurial spirit, always eager to learn and grow. Right now, I'm on the lookout for opportunities to work while I take evening classes. If you think I'd be a good fit for your team, don't hesitate to reach out to me at kchung0802@gmail.com.
+
+---
+
+### Socials:
 
 [![website](./img/globe-light.svg)](https://k-chung.netlify.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://k-chung.netlify.app#gh-dark-mode-only)
@@ -30,25 +51,3 @@
 
 <br>
 
----
-
-### Find my projects below:
-
-
-- :tipping_hand_woman: [FRIEND](https://dtc09-friend.netlify.app/login.html)
-- :tipping_hand_woman: [Foodbuddy](https://dtc04-foodbuddy.herokuapp.com)
-- :tipping_hand_woman: [POKEEBAR](https://stormy-springs-83483.herokuapp.com/login)
-
-
----
-
-
-### GitHub Stats
-
-  <img align="left" alt="Kim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kimmm-c&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
-
-[website]: https://k-chung.netlify.app
-[course]: http://vsCodeHero.com
-[linkedin]: https://www.linkedin.com/in/kim-chung-874917110
