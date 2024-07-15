@@ -1,4 +1,4 @@
-# Hi! I'm [Kim][linkedin], a BCIT Computer Systems newly grad, currently pursuing a bachelor degree in Computer Science.  
+# Hi! I'm Kim, a recent Computer Systems graduate from BCIT, now pursuing a Bachelor's degree in Computer Science. 
 
 
 ### Most recent projects:
