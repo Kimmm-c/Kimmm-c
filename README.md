@@ -3,6 +3,7 @@
 
 ### Most recent projects:
 
+- [E-commerce Website - Please see the demo under the PROJECTS section](https://k-chung.netlify.app)
 - [CLI Automation Tool](https://github.com/Kimmm-c/automate-create-remote-repo)
 - [NEO Classification](http://kimmmc.pythonanywhere.com)
 - [FitnessTracker](https://github.com/Kimmm-c/fitness-tracker)
@@ -11,9 +12,7 @@
 
 ### Projects I'm working on:
 
-- I am developing a minimalist painting application called Doodoo using Qt Creator and C++. This app is designed to deepen my understanding of C++ and UI frameworks while also challenging the boundaries of human creativity through its minimalist design and features. My ultimate goal is to use this application to create digital artworks that I plan to sell on my upcoming e-commerce website.
-  
-- Concurrently, I'm working on a personal e-commerce website to sell my digital artworks. This project serves both as a learning experience and a potential additional income stream. In this project, I will be working with PostgreSQL, Vue.js, Next.js, Stripe, AWS, etc..
+- I am developing a minimalist painting application called Doodoo using Qt Creator and C++. This app is designed to deepen my understanding of C++ and UI frameworks while also challenging the boundaries of human creativity through its minimalist design and features.
 
 ---
 
