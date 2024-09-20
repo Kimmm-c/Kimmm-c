@@ -3,6 +3,7 @@
 
 ### Most recent projects:
 
+- [Escaper - A C++ text-based game](https://github.com/Kimmm-c/escaper-game-dev.git)
 - [E-commerce Website - Please see the demo under the PROJECTS section](https://k-chung.netlify.app)
 - [CLI Automation Tool](https://github.com/Kimmm-c/automate-create-remote-repo)
 - [NEO Classification](http://kimmmc.pythonanywhere.com)
