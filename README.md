@@ -1,4 +1,4 @@
-# Hi! I'm Kim, a recent Computer Systems graduate from BCIT, now pursuing a Bachelor's degree in Game Development. 
+# I'm a recent Computer Systems graduate from BCIT, now pursuing a Bachelor's degree in Game Development. 
 
 
 ### Most recent projects:
